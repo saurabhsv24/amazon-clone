@@ -1,3 +1,10 @@
+Amazone-clone react app :
+  Homepage/dashboard :
+  login page : user can sign in and create new account. Authentication is done using firebase
+  logout: user can logout by clicking on header where logout option is given 
+  add to basket :user can add products to basket using the button given on the products and 
+        once the product is added to basket in the header number gets reflected
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
