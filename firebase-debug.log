@@ -1,0 +1,27 @@
+[debug] [2022-03-14T08:05:52.085Z] ----------------------------------------------------------------------
+[debug] [2022-03-14T08:05:52.087Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\lenovo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-03-14T08:05:52.087Z] CLI Version:   10.2.2
+[debug] [2022-03-14T08:05:52.088Z] Platform:      win32
+[debug] [2022-03-14T08:05:52.088Z] Node Version:  v16.14.0
+[debug] [2022-03-14T08:05:52.089Z] Time:          Mon Mar 14 2022 13:35:52 GMT+0530 (India Standard Time)
+[debug] [2022-03-14T08:05:52.089Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-14T08:05:52.098Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-03-14T08:05:52.098Z] > authorizing via signed-in user (vernekarsaurabh66@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\lenovo\Desktop\amazon-clone
+
+[debug] [2022-03-14T14:17:58.976Z] Error: kill ENOSYS
+    at process.kill (node:internal/process/per_thread:220:13)
+    at process.listener (C:\Users\lenovo\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (node:events:520:28)
+[error] 
+[error] Error: An unexpected error has occurred.
